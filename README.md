@@ -333,4 +333,7 @@ Enter your choice: 2
 Backup directory size: 832 bytes
 That's approximately 832.00 B
 ```
+## Academic Integrity Statement
+This project represents original work developed specifically for this assignment. All code has been written independently, with proper implementation of the required Java concepts and design patterns. No external libraries or frameworks were used beyond the Java Standard Edition API.
 
+The Campus Course & Records Manager demonstrates a thorough understanding of Java programming principles, object-oriented design, and software development best practices, while providing a practical solution to academic record management challenges.
